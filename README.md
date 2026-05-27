@@ -9,7 +9,7 @@
 
 ## 📋 Sumário Executivo
 
-Este relatório documenta os defeitos encontrados durante a execução de testes manuais no site **boticario.com.br**. Foram cobradas as áreas de busca, carrinho de compras, cadastro de usuário e performance. Testes de checkout e testes sobre pedidos foram excluídos do escopo por envolverem compra ou pedidos anteriores. Todos os casos de teste estão disponiveis na [Planilha de Testes](https://docs.google.com/spreadsheets/d/1yzHIiVTLtATZ8Pi8iRw9bqCNlBwRrq8HEsG3ITYom_U/edit?usp=sharing). 
+Este relatório documenta os defeitos encontrados durante a execução de testes manuais no site **boticario.com.br**. Foram cobertas as as áreas de busca, carrinho de compras, cadastro de usuário e performance. Testes de checkout e testes sobre pedidos foram excluídos do escopo por envolverem compra ou pedidos anteriores. Todos os casos de teste estão disponiveis na [Planilha de Testes](https://docs.google.com/spreadsheets/d/1yzHIiVTLtATZ8Pi8iRw9bqCNlBwRrq8HEsG3ITYom_U/edit?usp=sharing). 
 
 | Métrica | Valor |
 |---|---|
