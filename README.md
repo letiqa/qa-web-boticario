@@ -128,3 +128,6 @@ O teste de velocidade de carregamento realizado via Google Lighthouse no ambient
 ---
 
 *Relatório gerado para fins de portfólio — Testes executados manualmente, sem automação.*
+---
+## *Entrei em contato com a equipe da O Boticario e eles responderam agradecendo 🩷*
+<img width="527" height="202" alt="Captura de tela 2026-05-27 174413" src="https://github.com/user-attachments/assets/42a681d1-f5ab-4cf2-9fd4-ccdf7787a726" />
